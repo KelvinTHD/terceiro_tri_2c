@@ -1,0 +1,23 @@
+body {background-color: dodgerblue;}
+h1 {text-align: center;}
+h1 {color: chartreuse;
+    font-size: 1000%;}
+h2 {color: blueviolet;
+    text-align: center;
+    font-size: 200%;}
+h3 {color:coral;
+     text-align: center;
+    font-size: 200%;}
+#qualquer {margin-left: 400px;
+width: 500px;}
+#mine {margin-left: 200px;
+height: 500px;
+float: none;
+border-style: groove;
+border-color: brown;
+border-radius: 50000px;
+border-width: 100px;}
+#pilantra {border-style: inset;
+border-color: darkgreen;
+width: 1400px;
+height: 100px;}
